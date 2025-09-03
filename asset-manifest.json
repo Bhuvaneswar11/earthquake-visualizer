@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bhuvaneswar11/earthquake-visualizer.git/static/css/main.7c285d79.css",
+    "main.js": "/Bhuvaneswar11/earthquake-visualizer.git/static/js/main.60dbb6d2.js",
+    "static/js/453.5a2ac0e2.chunk.js": "/Bhuvaneswar11/earthquake-visualizer.git/static/js/453.5a2ac0e2.chunk.js",
+    "index.html": "/Bhuvaneswar11/earthquake-visualizer.git/index.html",
+    "main.7c285d79.css.map": "/Bhuvaneswar11/earthquake-visualizer.git/static/css/main.7c285d79.css.map",
+    "main.60dbb6d2.js.map": "/Bhuvaneswar11/earthquake-visualizer.git/static/js/main.60dbb6d2.js.map",
+    "453.5a2ac0e2.chunk.js.map": "/Bhuvaneswar11/earthquake-visualizer.git/static/js/453.5a2ac0e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c285d79.css",
+    "static/js/main.60dbb6d2.js"
+  ]
+}
